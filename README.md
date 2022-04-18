@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jongju Kim
-- 👀 I’m interested in StyleTransfer
+- 👀 I’m interested in GAN
 - 🌱 I’m currently working on ...
 
 <!---
