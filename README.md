@@ -8,7 +8,7 @@
 - English : intermediate
   
 ## Skill
-- Computer Vision Task : Optimal Video Encoding, Segmentation, Detection
+- Computer Vision Task : Super Resolution, Optimal Video Encoding, Segmentation, Detection
 - Programming Language : Python, C++
 - Deep Learning Framework : PyTorch, ONNX, TensorRT, OpenVINO
 
