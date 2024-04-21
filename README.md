@@ -1,4 +1,4 @@
-- Jongju Kim
+## Jongju Kim
   
 - Basic Info : 4th year AI Researcher(Computer Vision)
 - Skill
