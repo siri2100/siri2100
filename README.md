@@ -1,4 +1,4 @@
-# Jongju Kim
+# Leo Kim (김종주)
   
 ## Biography
 - I received the B.S. degree from the Sungkyunkwan University, Suwon, South Korea in 2019 and the M.S. degree from the Seoul National University, Seoul, South Korea in 2021. I'm an AI researcher(Computer Vision) and currently work at vision AI team, BLUEDOT, Seoul, South Korea. My research interests include AI based video content aware encoding, super resolution, segmentation and lane detection.
