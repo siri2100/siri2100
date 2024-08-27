@@ -1,14 +1,14 @@
 # Leo Kim (김종주)
   
 ## Biography
-- I received the B.S. degree from the Sungkyunkwan University, Suwon, South Korea in 2019 and the M.S. degree from the Seoul National University, Seoul, South Korea in 2021. I'm an AI researcher(Computer Vision) and currently work at vision AI team, BLUEDOT, Seoul, South Korea. My research interests include super resolution, optimal video encoding, segmentation and lane detection.
+- I received the B.S. degree from the Sungkyunkwan University, Suwon, South Korea in 2019 and the M.S. degree from the Seoul National University, Seoul, South Korea in 2021. I'm an AI researcher(Computer Vision) and currently work at vision AI team, BLUEDOT, Seoul, South Korea. My research interests include video super resolution, video content aware encoding and lane detection.
   
 ## Language
 - Korean : native
 - English : intermediate
   
 ## Skill
-- Computer Vision Task : Super Resolution, Optimal Video Encoding, Segmentation, Detection
+- Computer Vision Task : Video Super Resolution, Video Content Aware Encoding, Lane Detection
 - Programming Language : Python, C++
 - Deep Learning Framework : PyTorch, ONNX, TensorRT, OpenVINO
 
