@@ -7,12 +7,11 @@ My recent work on inference-free controllable one-step diffusion for real-world 
 At BLUEDOT, I led the transition from a GAN-based restoration pipeline to a large-scale controllable diffusion system deployed to enterprise media and broadcasting customers.
  
 Research Interests:
-- Generative AI 
-- Image & Video Generation, Restoration, and Enhancement 
-- Controllable Diffusion Models 
-- Vision-Language Models (VLMs) 
-- Vision-Language-Action (VLA) Models 
+- Generative AI
 - Embodied AI
+- Image & Video Generation, Restoration
+- Diffusion Models
+- Vision-Language Model (VLM)
 
 <!---
 siri2100/siri2100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
