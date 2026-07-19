@@ -1,16 +1,18 @@
-# Leo Kim (김종주)
+# Jongju Kim
   
-## Biography
-- I received the B.S. degree from the Sungkyunkwan University, Suwon, South Korea in 2019 and the M.S. degree from the Seoul National University, Seoul, South Korea in 2021. I'm an AI research scientist(CV) and currently work at vision AI team, BLUEDOT, Seoul, South Korea. My research interests include video super resolution, video content aware encoding and lane detection.
-  
-## Language
-- Korean : native
-- English : intermediate
-  
-## Skill
-- Computer Vision Task : Video Super Resolution, Video Content Aware Encoding, Lane Detection
-- Programming Language : Python, C++
-- Deep Learning Framework : PyTorch, ONNX, TensorRT, OpenVINO
+Senior AI research engineer specializing in generative AI, computer vision, and multimodal AI. I build production-scale vision foundation models, with a focus on controllable diffusion, image and video enhancement, and efficient model deployment.
+ 
+My recent work on inference-free controllable one-step diffusion for real-world image super-resolution was accepted to CVPR 2026 as a co-first author. I have led the development of 1.3B-scale diffusion models optimized for enterprise deployment, introducing GPU-efficient training and inference-free controllability for real-world applications.
+ 
+At BLUEDOT, I led the transition from a GAN-based restoration pipeline to a large-scale controllable diffusion system deployed to enterprise media and broadcasting customers.
+ 
+Research Interests:
+- Generative AI 
+- Image & Video Generation, Restoration, and Enhancement 
+- Controllable Diffusion Models 
+- Vision-Language Models (VLMs) 
+- Vision-Language-Action (VLA) Models 
+- Embodied AI
 
 <!---
 siri2100/siri2100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
