@@ -10,7 +10,7 @@ Research Interests:
 - Generative AI
 - Embodied AI
 - Image & Video Generation, Restoration
-- Diffusion Models
+- Diffusion Model
 - Vision-Language Model (VLM)
 
 <!---
